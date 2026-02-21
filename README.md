@@ -2,7 +2,7 @@
 
 This repository contains the `ur5_needle_insertion` ROS 2 workspace for UR5 robot-based needle insertion path planning. 
 
-Planning project committee: Dennis Chavez Romero, Bryan Zhao, Tamar Boone; Worcester Polytechnic Institute, Robotics. 
+Project/research team: Dennis Chavez Romero, Bryan Zhao, Tamar Boone; Worcester Polytechnic Institute, Robotics. 
 
 ---
 ## **0. Disclosure**
