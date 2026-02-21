@@ -1,4 +1,4 @@
-# UR5 Needle Insertion - ROS 2 Workspace
+# UR5 Needle Insertion - ROS 2 and Gazebo Simulation
 
 This repository contains the `ur5_needle_insertion` ROS 2 workspace for UR5 robot-based needle insertion path planning. 
 
